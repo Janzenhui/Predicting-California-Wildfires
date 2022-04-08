@@ -7,7 +7,7 @@ Files uploaded to Google Drive can be accessed here: https://drive.google.com/dr
 
 __________
 Technical Report: 
-Uploaded to Synapse
+Uploaded to GitHub
 
 "Capstone Report - Janzen Hui.pdf"
 
@@ -28,7 +28,7 @@ Weather data: "Daily Weather 1992-2018.zip"
 
 __________
 Jupyter Notebooks (in order of opening):
-Uploaded to Synapse
+Uploaded to GitHub
 
 "Capstone 1 - Data Wrangling.ipynb"
 "Capstone 2 - Modeling.ipynb"
